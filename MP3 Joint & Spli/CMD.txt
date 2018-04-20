@@ -1,0 +1,5 @@
+Merge Audio Files
+
+Commend : Copy/b
+
+use :   Source Path>Copy/b file.mp3+file.mp3+ newfilename.mp3
